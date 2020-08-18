@@ -52,5 +52,5 @@ All the files included in this study are attached in the movement folder
     + split.py -> split the videos into smaller shorter videos
   
   
- # Additional processing videos
+ # Additional processing files
  - In the excel folder are the additional files needed for data processing.
